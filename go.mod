@@ -1,4 +1,4 @@
-module github.com/vgarvardt/pgx-helpers/v4
+module github.com/vgarvardt/pgx-helpers/v5
 
 go 1.25.0
 
