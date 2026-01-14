@@ -34,7 +34,7 @@ import (
     "os"
     "time"
 
-    "github.com/jackc/pgx/v4"
+    "github.com/jackc/pgx/v5"
     pgxHelpers "github.com/vgarvardt/pgx-helpers/v4"
 )
 
@@ -75,7 +75,7 @@ import (
     "os"
     "time"
 
-    "github.com/jackc/pgx/v4"
+    "github.com/jackc/pgx/v5"
     pgxHelpers "github.com/vgarvardt/pgx-helpers/v4"
 )
 
